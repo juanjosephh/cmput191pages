@@ -42,4 +42,33 @@ Using data from https://tradingeconomics.com/country-list/inflation-rate and htt
 
 ### 6. Visualizing the data
 
+Plotting scatterplots and barchats...
+
+![sale](netsal.png "sale") ![price](inflation_rates.png "price")
+
+![image](https://user-images.githubusercontent.com/120060627/206792740-ef8712d8-ced4-41ad-bdf5-bf08fc2859c7.png)
+
+![image](https://user-images.githubusercontent.com/120060627/206792784-81c12b8a-184d-4f1a-b741-6c4b1ff084c6.png)
+
+## Conclusions
+
+After calculating the correlation coefficients, there seems to be a moderate correlation between Price differences and Inflation Rates, and also a moderate correlation between Price differences and Average Salaries. ( r= 0.54 and r=-0.51)
+
+Among these countries, it’s probably best to buy a PS5 in Canada, and definitely not to buy one in Russia.
+
+## Citations
+
+https://www.globalproductprices.com/
+
+https://www.downloadexcelfiles.com/wo_en/download-excel-file-list-currencies-native-languages-countries
+
+https://www.numbeo.com/cost-of-living/prices_by_country.jsp?itemId=105&displayCurrency=CAD
+
+https://tradingeconomics.com/country-list/inflation-rate
+
+https://api.currencyscoop.com/v1/convert
+
+
+
+
 
