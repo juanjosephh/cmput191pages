@@ -1,4 +1,6 @@
 # The PS5 Index 
+![image](https://user-images.githubusercontent.com/120060627/206793473-1b145946-89da-4c4e-960b-2080d62215af.png)
+
 
 ## What is Purchasing Power Parity (PPP)?
 
