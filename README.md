@@ -8,6 +8,8 @@ In economics, purchasing power parity is a concept in which there’s a theoreti
 
 Having played video games for almost my entire life, I was quite curious to see what the prices of PlayStation 5's were, across the world. It worked well with the assignment, as the PS5 model is the identical anywhere you go.
 
-##The Creation of the Index
+## The Creation of the Index
 
-To create the index, I took a 10 step approach, detailed in the Jupyter Notebook file as well. Let’s dive right in!
+### 1. Getting the data
+Using sources on the internet, I found the prices of a bunch of different items in different countries. I chose 10 countries including Canada, and imported the local prices into a csv file. Since I imported the data into my own csv, I didn’t have to clean it.
+
