@@ -23,3 +23,23 @@ After dropping unnecessary columns, I joined the tables with my table containing
 After getting the joined table with country names and currency codes, I converted the prices to CAD using the CurrencyScoop API. Since I already had the price of PS5 in Canada, I didn't have to convert it, so I stored the price of a PS5 in Canada as a sepearate variable and used it to perform table operations and calculate the price differences.
 
 After cleaning and converting, the data looked like this.
+
+![table](table.png "table")
+
+
+### 4. Plotting the differences
+
+Using the barh() function, I plotted the price differencces between Canada and the other 9 countries.
+
+![price](price_differences.png "price")
+
+### 5. External factors
+
+Noticing the graph, it seems that Russia has a really high difference. Although the situation with Russia and Ukraine could be a factor, as Sony suspended console sales in Russia, I thought there were more factors like average monthly salary and inflation rates. If the average monthly salary in a country is high, the purchasing power increases, thus leading to an increase in prices. Similarly, higher inflation rates can lead to higher prices.
+Using data from https://tradingeconomics.com/country-list/inflation-rate and https://www.numbeo.com/cost-of-living/prices_by_country.jsp?itemId=105&displayCurrency=CAD, I imported data and joined them to create the final table.
+
+![image](https://user-images.githubusercontent.com/120060627/206791033-81ece758-199c-424b-817a-945d2a2bb65f.png)
+
+### 6. Visualizing the data
+
+
